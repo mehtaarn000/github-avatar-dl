@@ -1,4 +1,4 @@
-from get_user import get_user
+from .get_user import get_user
 from requests import get
 def download_avatar(user, filename):
     imageurl = get_user(user=user)
