@@ -1,4 +1,5 @@
-# A python module that will allow users to download GitHub avatar images
+# github-avatar-dl
+A python module that will allow users to download GitHub avatar images
 
 ## Installation:
 `pip install github-avatar-dl`
